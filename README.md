@@ -9,3 +9,4 @@ tool will install :
 
 - vagrant will provision a vm ( coreOs ) with own ssh key and ansible
 - ansible will pull docker images
+- and so on
